@@ -25,7 +25,7 @@ console.log(typeof '') */
 
 // console.log( typeof 'number')
 
-// let age;
+// let age =3;
 
 // console.log(age)
 
@@ -33,7 +33,7 @@ console.log(typeof '') */
 
 // var myAge = 22;
 // var myAge1 = 22;
-// var myAge2= 22;
+// var myAge2 = 22;
 // var myAge3 = 22;
 // var myAge4 = 22;
 
@@ -78,10 +78,52 @@ console.log(typeof '') */
 // console.log(h)
 
 
-let i = 'This is a string';
-let j = 'This is a string';
-let k = `This is a string`;
+// let i = 'This is a string';
+// let j = 'This is a string';
+// let k = `This is a string`;
 
-console.log(typeof i)
-console.log(typeof j)
-console.log(typeof k)
+// console.log(typeof i)
+// console.log(typeof j)
+// console.log(typeof k)
+
+
+
+// let userName = 'Akif' ;
+// console.log(userName.length)
+
+// console.log('Merhaba ', userName )
+
+// console.log(`Merhaba ${userName}`)
+
+// console.log(`2+3 ${2+'3'}`)
+
+// console.log(`3`- 2)
+
+let m = ``
+
+let n = ' '
+
+let p = 0
+
+console.log(Boolean(m))
+console.log(Boolean(n))
+console.log(Boolean(p))
+console.log(Boolean(3 > 5))
+console.log(Boolean(3 > 2))
+
+const myCar = {
+    make : 'ford',
+    model : 'Mustang',
+    year : 1965,
+    color : 'Black'
+  }
+
+  console.log(myCar)
+
+  myCar.color = 'green'
+
+  console.log(myCar)
+
+  myCar = 'ford'
+
+  
