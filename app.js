@@ -31,6 +31,10 @@ console.log(age)
 
 console.log(myAge)
 
-let myAge = 40;
+var myAge = 22;
+var myAge1 = 22;
+var myAge2= 22;
+var myAge3 = 22;
+var myAge4 = 22;
 
 console.log('Hello')
