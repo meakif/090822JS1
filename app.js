@@ -55,3 +55,33 @@ console.log(typeof '') */
 // console.log('12' === 12)
 
 // console.log('12' * '12')
+
+
+// let x = 123456789001234
+// let y = 123456789001234123
+
+// let z = 0.12345678901234567
+// let zz = 0.123456789012345675678
+
+// console.log({x})
+// console.log({y},typeof y)
+
+// console.log(z)
+// console.log(zz)
+
+// let g = 0.1+0.2
+// console.log(g)
+// console.log(+g.toFixed(2))
+
+// let h = 1_000_000_000
+
+// console.log(h)
+
+
+let i = 'This is a string';
+let j = 'This is a string';
+let k = `This is a string`;
+
+console.log(typeof i)
+console.log(typeof j)
+console.log(typeof k)
