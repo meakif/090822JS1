@@ -25,16 +25,33 @@ console.log(typeof '') */
 
 // console.log( typeof 'number')
 
-let age;
+// let age;
 
-console.log(age)
+// console.log(age)
 
-console.log(myAge)
+// console.log(myAge)
 
-var myAge = 22;
-var myAge1 = 22;
-var myAge2= 22;
-var myAge3 = 22;
-var myAge4 = 22;
+// var myAge = 22;
+// var myAge1 = 22;
+// var myAge2= 22;
+// var myAge3 = 22;
+// var myAge4 = 22;
 
-console.log('Hello')
+// console.log('Hello')
+
+// let a = null
+
+// console.log( typeof a)
+
+
+// let x;
+
+// do {
+//     x = prompt('enter a Number : ');
+// }while (isNaN(x));
+
+// console.log(x, x*x) 
+
+// console.log('12' === 12)
+
+// console.log('12' * '12')
